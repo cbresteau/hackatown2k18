@@ -37,12 +37,12 @@ iter = 0
 for row in rawData:
     # iter += 1
     # if iter >= 2:
-    id = row[1]
-    lat = row[5]
-    lon = row[6]
+    id = row[0]
+    lat = row[4]
+    lon = row[5]
     unixTime = 1516475517
-    msgtext = row[2]
-    userID = row[4]
+    msgtext = row[1]
+    userID = row[3]
     # output += template % (row[0], row[2], row[1], row[3], row[4])
     output += template % (lon, lat,  id,  unixTime, msgtext, userID)
 
