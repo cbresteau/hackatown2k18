@@ -1,0 +1,195 @@
+Int_no,Rue_1,Rue_2,Arrondissement,X,Y
+281,Pins,University,Plateau Mont-Royal,298539.69,5040923.74
+291,Aylmer,Sherbrooke,Plateau Mont-Royal,299128.08,5040697.57
+309,Durocher,Milton,Plateau Mont-Royal,298961.13,5040924.57
+310,Durocher,Prince-Arthur,Plateau Mont-Royal,298795.07,5041035.64
+311,Durocher,Sherbrooke,Plateau Mont-Royal,299165.53,5040786.57
+318,Hutchison,Milton,Plateau Mont-Royal,299002.42,5040994.57
+320,Hutchison,Sherbrooke,Plateau Mont-Royal,299198.43,5040863.07
+322,Jeanne-Mance,Milton,Plateau Mont-Royal,299095.12,5041146.07
+324,Jeanne-Mance,Prince-Arthur,Plateau Mont-Royal,298938.12,5041248.57
+326,Jeanne-Mance,Sherbrooke,Plateau Mont-Royal,299268.56,5041048.34
+327,Lיo-Pariseau,Parc,Plateau Mont-Royal,298772.39,5041247.84
+348,Milton,Parc,Plateau Mont-Royal,299043.12,5041066.07
+349,Milton,Saint-Urbain,Plateau Mont-Royal,299220.02,5041309.57
+350,Milton,University,Plateau Mont-Royal,298826.65,5040722.71
+355,Parc,Prince-Arthur,Plateau Mont-Royal,298885.5,5041170.25
+368,Saint-Laurent,Sherbrooke,Plateau Mont-Royal,299374.82,5041400.07
+371,Saint-Urbain,Sherbrooke,Plateau Mont-Royal,299327.19,5041245.92
+374,Sherbrooke,University,Plateau Mont-Royal,299057.68,5040563.95
+375,Jeanne-Mance,Lיo-Pariseau,Plateau Mont-Royal,298819.95,5041327.34
+477,Berri,Cherrier,Plateau Mont-Royal,299390.15,5042131.29
+480,Berri,Roy,Plateau Mont-Royal,299202.15,5042259.09
+482,Berri,Sherbrooke,Plateau Mont-Royal,299567.69,5042011.25
+483,Cherrier / Montcalm,Sherbrooke,Plateau Mont-Royal,299662.25,5042518.52
+484,Cherrier,Parc-La Fontaine,Plateau Mont-Royal,299596.74,5042446.51
+485,Cherrier,Saint-Denis,Plateau Mont-Royal,299314,5042031.74
+486,Cherrier,Saint-Hubert,Plateau Mont-Royal,299448.21,5042217.08
+490,Hפtel-de-Ville,Pins,Plateau Mont-Royal,299054.01,5041887.08
+500,Pins,Saint-Denis,Plateau Mont-Royal,299192.62,5042110.46
+501,Rigaud,Saint-Denis,Plateau Mont-Royal,299433.2,5041952.5
+502,Roy,Saint-Denis,Plateau Mont-Royal,299128.61,5042150.08
+503,Roy,Saint-Hubert,Plateau Mont-Royal,299255.21,5042343.08
+505,Saint-Andrי,Sherbrooke,Plateau Mont-Royal,299634.26,5042224.33
+511,Saint-Hubert,Sherbrooke,Plateau Mont-Royal,299600.11,5042117.33
+516,Bernard,Esplanade,Plateau Mont-Royal,296646.67,5042786.89
+517,Bernard,Parc,Plateau Mont-Royal,296557.53,5042643.53
+518,Bernard,Saint-Laurent,Plateau Mont-Royal,296812.86,5043053.83
+519,Bernard,Saint-Urbain,Plateau Mont-Royal,296733.4,5042920.6
+520,Bullion,Saint-Joseph,Plateau Mont-Royal,297771.61,5042670.12
+522,Coloniale,Pins,Plateau Mont-Royal,298994.31,5041785.08
+525,Duluth,Saint-Laurent,Plateau Mont-Royal,298597.71,5041897.08
+526,Duluth,Saint-Urbain,Plateau Mont-Royal,298511.91,5041763.58
+527,Fairmount,Parc,Plateau Mont-Royal,297176.04,5042282.41
+528,Fairmount,Saint-Laurent,Plateau Mont-Royal,297410.91,5042666.58
+529,Fairmount,Saint-Urbain,Plateau Mont-Royal,297331.95,5042533.35
+530,Gaspי,Laurier,Plateau Mont-Royal,297673.91,5042772.08
+531,Hפtel-de-Ville,Rachel,Plateau Mont-Royal,298550.78,5042214.9
+532,Jeanne-Mance,Saint-Joseph,Plateau Mont-Royal,297476.55,5042205.26
+533,Laurier,Parc,Plateau Mont-Royal,297315.21,5042193.57
+534,Laurier,Saint-Laurent,Plateau Mont-Royal,297552.81,5042574.08
+535,Laurier,Saint-Urbain,Plateau Mont-Royal,297466.94,5042443.1
+536,Marie-Anne,Saint-Laurent,Plateau Mont-Royal,298233.91,5042129.58
+537,Marie-Anne,Saint-Urbain,Plateau Mont-Royal,298147.07,5041998.82
+538,Mont-Royal,Parc,Plateau Mont-Royal,297821.71,5041875.57
+539,Mont-Royal,Saint-Laurent,Plateau Mont-Royal,298051.76,5042246.26
+540,Mont-Royal,Saint-Urbain,Plateau Mont-Royal,297967.41,5042113.08
+542,Parc,Saint-Joseph,Plateau Mont-Royal,297426.05,5042123.73
+543,Parc,Saint-Viateur,Plateau Mont-Royal,296815.11,5042481.57
+544,Parc,Van Horne,Plateau Mont-Royal,296190.97,5042876.5
+545,Parc,Villeneuve,Plateau Mont-Royal,297579.91,5042027.57
+546,Pins,Saint-Laurent,Plateau Mont-Royal,298931.61,5041683.08
+547,Pins,Saint-Urbain,Plateau Mont-Royal,298850.72,5041546.07
+548,Prince-Arthur,Saint-Laurent,Plateau Mont-Royal,299130.16,5041554.82
+549,Prince-Arthur,Saint-Urbain,Plateau Mont-Royal,299047.52,5041419.07
+550,Rachel,Saint-Laurent,Plateau Mont-Royal,298416.91,5042014.08
+551,Rachel,Saint-Urbain,Plateau Mont-Royal,298330.75,5041882.26
+552,Saint-Cuthbert,Saint-Urbain,Plateau Mont-Royal,298683.22,5041651.95
+553,Saint-Joseph,Saint-Laurent,Plateau Mont-Royal,297663.25,5042499.29
+554,Saint-Joseph,Saint-Urbain,Plateau Mont-Royal,297580.27,5042366.39
+555,Saint-Laurent,Saint-Viateur,Plateau Mont-Royal,297074.38,5042882.04
+556,Saint-Laurent,Villeneuve,Plateau Mont-Royal,297820.81,5042397.08
+557,Saint-Urbain,3650,Plateau Mont-Royal,298947.94,5041483
+558,Saint-Urbain,Saint-Viateur,Plateau Mont-Royal,296990.01,5042750.58
+559,Saint-Urbain,Villeneuve,Plateau Mont-Royal,297733.71,5042264.58
+560,Van Horne,Waverly,Plateau Mont-Royal,296365.62,5043064.96
+561,Berri,Saint-Joseph,Plateau Mont-Royal,298015.65,5043056.93
+562,Bienville,Saint-Denis,Plateau Mont-Royal,298181.4,5042765.58
+563,Boucher,Saint-Denis,Plateau Mont-Royal,297634.18,5043122.83
+564,Boucher,Saint-Hubert,Plateau Mont-Royal,297763.2,5043341.59
+565,Brיbeuf,Laurier,Plateau Mont-Royal,298179.82,5043613.67
+566,Brיbeuf,Saint-Joseph,Plateau Mont-Royal,298321.63,5043519.19
+567,Carmel,Saint-Denis,Plateau Mont-Royal,297466.6,5043228.65
+568,Christophe-Colomb,Gilford,Plateau Mont-Royal,298342.8,5043299.59
+569,Christophe-Colomb,Marie-Anne,Plateau Mont-Royal,298796.24,5043006.98
+570,Christophe-Colomb,Mont-Royal,Plateau Mont-Royal,298613.2,5043124.09
+571,Christophe-Colomb,Parc-La Fontaine / Rachel,Plateau Mont-Royal,298992.63,5042863.15
+572,Christophe-Colomb,Saint-Joseph,Plateau Mont-Royal,298225.91,5043374.07
+573,Duluth,Parc-La Fontaine,Plateau Mont-Royal,299146.83,5042741.59
+574,Duluth,Saint-Denis,Plateau Mont-Royal,298872.76,5042316.41
+575,Duluth,Saint-Hubert,Plateau Mont-Royal,298995.9,5042510.08
+576,Fabre,Saint-Joseph,Plateau Mont-Royal,298486.48,5043768.64
+577,Garnier,Saint-Joseph,Plateau Mont-Royal,298438.34,5043695.51
+579,Gilford,La Roche,Plateau Mont-Royal,298397.7,5043380.59
+580,Gilford,Saint-Denis,Plateau Mont-Royal,298085.97,5042828.5
+582,Lanaudiטre,Marie-Anne,Plateau Mont-Royal,298960.9,5043256.09
+583,Lanaudiטre,Mont-Royal,Plateau Mont-Royal,298779.44,5043375.15
+584,Calixa-Lavallיe,Lanaudiטre/Rachel,Plateau Mont-Royal,299176.16,5043113.62
+585,Lanaudiטre,Saint-Joseph,Plateau Mont-Royal,298395.66,5043630.43
+586,La Roche,Laurier,Plateau Mont-Royal,298140.8,5043552.09
+587,La Roche,Marie-Anne,Plateau Mont-Royal,298847.85,5043085.8
+588,La Roche,Mont-Royal,Plateau Mont-Royal,298666.3,5043203.59
+589,La Roche,Rachel,Plateau Mont-Royal,299061.3,5042945.26
+590,La Roche,Saint-Joseph,Plateau Mont-Royal,298281.09,5043457.53
+591,Laurier,Mentana,Plateau Mont-Royal,298018.1,5043353.09
+593,Laurier,Saint-Denis,Plateau Mont-Royal,297810.28,5043007.58
+594,Laurier,Saint-Hubert,Plateau Mont-Royal,297942.9,5043231.09
+595,Marie-Anne,Saint-Denis,Plateau Mont-Royal,298505.73,5042556.15
+596,Marie-Anne,Saint-Hubert,Plateau Mont-Royal,298633.1,5042746.58
+597,Mentana,Mont-Royal,Plateau Mont-Royal,298541,5043015.09
+598,Rachel,Saint-Hubert,Plateau Mont-Royal,298816.6,5042625.58
+599,Mont-Royal,Saint-Hubert,Plateau Mont-Royal,298454.54,5042884.95
+600,Mont-Royal,Rivard,Plateau Mont-Royal,298362.2,5042737.08
+601,Mont-Royal,Saint-Denis,Plateau Mont-Royal,298322.6,5042675.08
+602,Rachel,Saint-Denis,Plateau Mont-Royal,298692.51,5042435.58
+604,Resther,Saint-Joseph,Plateau Mont-Royal,298044.59,5043100.62
+605,Saint-Denis,Saint-Grיgoire,Plateau Mont-Royal,297519.01,5043196.08
+606,Saint-Denis,Saint-Joseph,Plateau Mont-Royal,297933.97,5042927.73
+607,Saint-Grיgoire,Saint-Hubert,Plateau Mont-Royal,297620.56,5043431.66
+608,Saint-Hubert,Saint-Joseph,Plateau Mont-Royal,298075.42,5043147.45
+646,Frontenac,Hogan/Marie-Anne,Plateau Mont-Royal,299656.84,5044301.09
+647,Frontenac,Mont-Royal,Plateau Mont-Royal,299453.12,5044385.84
+649,Frontenac,Rachel,Plateau Mont-Royal,299878.79,5044166.1
+654,Fullum,Mont-Royal,Plateau Mont-Royal,299316.69,5044179.69
+656,Fullum,Rachel,Plateau Mont-Royal,299712.69,5043913.6
+663,Hogan,Rachel,Plateau Mont-Royal,299989.39,5044348.1
+666,Iberville,Marie-Anne,Plateau Mont-Royal,299615.69,5044239.1
+667,Iberville,Mont-Royal,Plateau Mont-Royal,299430.81,5044349.61
+669,Iberville,Rachel,Plateau Mont-Royal,299841.19,5044104.6
+671,Iberville,Sherbrooke,Plateau Mont-Royal,300009.29,5044002.6
+674,Parthenais,Rachel,Plateau Mont-Royal,299638.39,5043801.6
+675,Parthenais,Sherbrooke,Plateau Mont-Royal,299919.69,5043617.1
+677,Bordeaux,Laurier,Plateau Mont-Royal,298629.19,5044163.59
+678,Bordeaux,Marie-Anne,Plateau Mont-Royal,299274.3,5043731.37
+680,Bordeaux,Mont-Royal,Plateau Mont-Royal,299097.98,5043852.35
+681,Bordeaux,Rachel,Plateau Mont-Royal,299492.39,5043585.1
+682,Bordeaux,Saint-Joseph,Plateau Mont-Royal,298712.35,5044109
+686,Christophe-Colomb,Saint-Grיgoire,Plateau Mont-Royal,297751.64,5043634.29
+688,Fullum,Gilford,Plateau Mont-Royal,299047.49,5044356.1
+689,Fullum,Saint-Joseph,Plateau Mont-Royal,298936.45,5044432.4
+690,Gauthier,Lorimier,Plateau Mont-Royal,299702.09,5043543.6
+691,Gauthier,Papineau,Plateau Mont-Royal,299536.12,5043297.18
+692,Gilford,Lorimier,Plateau Mont-Royal,298874.09,5044098.09
+693,Gilford,Papineau,Plateau Mont-Royal,298704.96,5043848.2
+694,Iberville,Saint-Joseph,Plateau Mont-Royal,299043.95,5044584.94
+695,Laurier,Lorimier,Plateau Mont-Royal,298673.99,5044232.09
+696,Laurier,Papineau inter. Nord,Plateau Mont-Royal,298447.4,5044017
+697,Lorimier,Marie-Anne,Plateau Mont-Royal,299319.97,5043800.04
+698,Lorimier,Masson,Plateau Mont-Royal,298415.77,5044402.96
+699,Lorimier,Mont-Royal,Plateau Mont-Royal,299141.62,5043919.44
+700,Lorimier,Rachel,Plateau Mont-Royal,299538.09,5043653.1
+702,Lorimier,Saint-Joseph,Plateau Mont-Royal,298756.31,5044175.6
+704,Marie-Anne,Papineau,Plateau Mont-Royal,299154.39,5043549.59
+705,ֹmile-Duployי,Marquette/Rachel,Plateau Mont-Royal,299319,5043323
+706,Masson,Papineau,Plateau Mont-Royal,298246.09,5044149.59
+708,Mont-Royal,Papineau,Plateau Mont-Royal,298975.61,5043669.52
+709,Papineau,Rachel,Plateau Mont-Royal,299371.69,5043406.09
+710,Papineau,Saint-Grיgoire,Plateau Mont-Royal,298138.44,5044222.63
+711,Papineau,Saint-Joseph,Plateau Mont-Royal,298589,5043924.25
+1370,Berri,Mont-Royal,Plateau Mont-Royal,298393.8,5042787.58
+1382,Coloniale,Sherbrooke,Plateau Mont-Royal,299410.02,5041515.58
+1403,Parc,5305,Plateau Mont-Royal,296992.44,5042369
+1412,Mont-Royal,Parthenais,Plateau Mont-Royal,299234.54,5044057.46
+1420,Brיbeuf,Rachel,Plateau Mont-Royal,299101.99,5043004.89
+1425,Brיbeuf,Mont-Royal,Plateau Mont-Royal,298706.2,5043264.09
+1433,Saint-Cuthbert,Saint-Laurent,Plateau Mont-Royal,298769.61,5041786.58
+1440,Hפtel-de-Ville,Mont-Royal,Plateau Mont-Royal,298192.16,5042464.47
+1448,Jeanne-Mance,Mont-Royal,Plateau Mont-Royal,297874.81,5041960.07
+1494,ֹrables,Rachel,Plateau Mont-Royal,299584.19,5043721.1
+1495,Aylmer,Pins,Plateau Mont-Royal,298587.59,5041048.84
+1498,Hutchison,Prince-Arthur,Plateau Mont-Royal,298840.72,5041101.57
+1516,Laurier,Parc Voie rיversible,Plateau Mont-Royal,297315.21,5042193.57
+1525,Montgomery,Sherbrooke,Plateau Mont-Royal,300139.09,5044352.6
+1541,Fabre,Mont-Royal,Plateau Mont-Royal,298871.5,5043514.09
+1554,Parc,5305 Voie rיversible,Plateau Mont-Royal,296998.56,5042376.5
+1557,Parc,Rachel face monument,Plateau Mont-Royal,298172.5,5041645.5
+1565,Bernard,Parc Voie rיversible,Plateau Mont-Royal,296557.53,5042643.53
+1567,Parc,Villeneuve Voie rיversible,Plateau Mont-Royal,297579.91,5042027.57
+1568,Parc,5647,Plateau Mont-Royal,296697.4,5042555
+1581,Brיbeuf,Saint-Grיgoire,Plateau Mont-Royal,297872.21,5043817.26
+1602,Parc,Bretelle Pins Ouest,Plateau Mont-Royal,298602.22,5041354
+1611,Pins,Bretelle Parc Nord,Plateau Mont-Royal,298645.28,5041238
+1615,Parc,30 m Sud de Duluth,Plateau Mont-Royal,298382.59,5041507
+1669,Mentana,Saint-Grיgoire,Plateau Mont-Royal,297701.35,5043556.6
+1690,Berri,Rachel,Plateau Mont-Royal,298764.1,5042545.58
+1698,Henri-Julien,Rachel,Plateau Mont-Royal,298618.11,5042320.58
+1869,Coloniale,Rachel,Plateau Mont-Royal,298484.81,5042115.58
+2167,Garnier,Saint-Grיgoire,Plateau Mont-Royal,297986.79,5043992.09
+2232,Parc,Pins,Plateau Mont-Royal,298695.26,5041304.3
+2973,Mentana,Saint-Joseph,Plateau Mont-Royal,298154,5043265
+3052,Mentana,Rachel,Plateau Mont-Royal,298914,5042775
+3636,Chambord,Saint-Joseph,Plateau Mont-Royal,298362,5043580.8
+3803,Mont-Royal,Resther,Plateau Mont-Royal,298433.32,5042851.59
+4123,Henri-Julien,Pins des,Plateau Mont-Royal,299119.73,5041994.22
+7078,ֹrables,Saint-Joseph,Plateau Mont-Royal,298802.57,5044242.1
+7712,Arcade,Saint-Laurent,Plateau Mont-Royal,296713.51,5043116.52
