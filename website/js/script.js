@@ -39,5 +39,8 @@ function initMap() {
             icon: image,
             map: map
         });
+        marker.addListener('click', function(){
+            marker.setMap(null);
+        });
     });
 }
