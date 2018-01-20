@@ -1,6 +1,14 @@
 import pyproj
-x, y = (299374.82, 5041400.07)
+import os
+import csv
+import json
+import sys
+reload(sys)
+sys.setdefaultencoding('utf8')
 
-p = pyproj.Proj("+proj=tmerc +lat_0=0 +lon_0=-73.5 +k=0.999900 +x_0=304800 +y_0=0 +ellps=GRS80 +units=m +no_defs no_defs")
-lon, lat = p(x, y, inverse=True)
-print lat, lon
+rawData = csv.reader(open('red_lightsplateau.csv', 'rb'), dialect='excel')
+
+for row in rawData:
+    # iter += 1
+    # if iter >= 2:
+    print row[4]

@@ -1,6 +1,6 @@
 #! usr/bin/python
 # -*- coding: ISO-8859-1 -*-
-
+import pyproj
 import os
 import csv
 import json
@@ -13,6 +13,9 @@ sys.setdefaultencoding('utf8')
 # ----------------------------Récupération données----------------------------#
 #-----------------------------------------------------------------------------#
 #-----------------------------------------------------------------------------#
+
+p = pyproj.Proj("+proj=tmerc +lat_0=0 +lon_0=-73.5 +k=0.999900 +x_0=304800 +y_0=0 +ellps=GRS80 +units=m +no_defs no_defs")
+
 
 # Read in raw data from csv
 rawData = csv.reader(open('red_lightsplateau.csv', 'rb'), dialect='excel')
@@ -35,11 +38,12 @@ output = \
 # loop through the csv by row skipping the first
 iter = 0
 for row in rawData:
-    # iter += 1
+    iter += 1
     # if iter >= 2:
     id = row[0]
-    lat = row[4]
-    lon = row[5]
+    x = row[4]
+    y = row[5]
+    lat, lon = p(x, y, inverse=True)
     unixTime = 1516475517
     msgtext = row[1]
     userID = row[3]
