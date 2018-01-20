@@ -31,16 +31,37 @@ function initMap() {
 
         ]
     });
+
+    // images
+    var fire_image = 'images/fire.png';
+    var firemen_image = 'images/firemen.png';
+
+    // Barracks icons
+    $.getJSON("casernes.geojson", function(data){
+        var barracks = data["features"];
+        for (b in barracks){
+            var barrack_position = barracks[b]["geometry"]["coordinates"];
+            var barrack_latlng = new google.maps.LatLng({lat: barrack_position[1], lng: barrack_position[0]});
+            new google.maps.Marker({
+                position: barrack_latlng,
+                icon: firemen_image,
+                map: map
+            });
+        }
+    });
+    
+    // Fire icons on click
     map.addListener('click', function(event) {
         var fire_position = event.latLng;
-        var image = 'images/fire.png';
         var marker = new google.maps.Marker({
             position: fire_position,
-            icon: image,
+            icon: fire_image,
             map: map
         });
         marker.addListener('click', function(){
             marker.setMap(null);
         });
     });
+
 }
+
