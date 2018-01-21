@@ -55,7 +55,7 @@ function getClosestBarrack(directionsService, latLng, callback) {
 }
 
 function initMap() {
-    var montreal = {lat: 45.5052846, lng: -73.6116984};
+    var montreal = {lat: 45.5258129621963, lng: -73.5749028744983};
     var directionsService = new google.maps.DirectionsService;
     var directionsDisplay = new google.maps.DirectionsRenderer;
 
