@@ -1,5 +1,49 @@
+function calculatDuration(directionsService, origin, destination, callback){
+    directionsService.route({
+        origin: origin,
+        destination: destination,
+        travelMode: 'DRIVING'
+    }, function(response, status){
+        if(status === 'OK'){
+            var totalDuration = 0;
+            var legs = response.routes[0].legs;
+            for(var i=0; i<legs.length; ++i) {
+                totalDuration += legs[i].duration.value;
+            }
+            var result = {origin: origin, duration: totalDuration};
+            callback(result);
+        }
+        else{
+            throw status;
+        }
+    });
+}
+
+function getClosestBarrack(directionsService, latLng, callback) {
+    $.getJSON("casernes.geojson", function(data){
+        var min_duration;
+        var closest_barrack;
+        var barracks = data["features"];
+        for (b in barracks){
+            var barrack_position = barracks[b]["geometry"]["coordinates"];
+            var barrack_latlng = new google.maps.LatLng({lat: barrack_position[1], lng: barrack_position[0]});
+            calculatDuration(directionsService, barrack_latlng, latLng, function(result){
+                var duration = result["duration"];
+                if(!min_duration | duration < min_duration){
+                    min_duration = duration;
+                    // closest_barrack is not assigned correctly
+                    closest_barrack = result["origin"];
+                }
+            });
+        }
+        console.log(closest_barrack);
+        callback(closest_barrack);
+    });
+}
+
 function initMap() {
     var montreal = {lat: 45.5052846, lng: -73.6116984};
+    var directionsService = new google.maps.DirectionsService;
     var map = new google.maps.Map(document.getElementById('map'), {
         zoom: 15,
         center: montreal,
@@ -53,40 +97,6 @@ function initMap() {
         }
     });
 
-
-
-var light_marker;
-
-
-
-    $.getJSON("geo_redlights.json", function(data){
-        var traffic_lights = data["features"];
-        for (b in traffic_lights){
-            var traffic_lights_position = traffic_lights[b]["geometry"]["coordinates"];
-            var traffic_lights_latlng = new google.maps.LatLng({lat: traffic_lights_position[0], lng: traffic_lights_position[1]});
-            var light_marker = new google.maps.Marker({
-                position: traffic_lights_latlng,
-                icon: green_light_image,
-                map: map,
-            });
-        }
-    });
-
-//minFTZoomLevel = 17 ;
-
-//      google.maps.event.addListener(map, 'zoom_changed', function() {
-//          var zoom = map.getZoom();
-
-          // Update May 2017
-          //   You can now use setVisible() on a marker instead of
-          //   setting the map to a null value.
-//          if (zoom >= 17) {
-//              light_marker.setVisible(false);
-//          } else {
-//              light_marker.setVisible(true);
-//          }
-//      });
-
     // Fire icons on click
     map.addListener('click', function(event) {
         var fire_position = event.latLng;
@@ -94,6 +104,9 @@ var light_marker;
             position: fire_position,
             icon: fire_image,
             map: map
+        });
+        getClosestBarrack(directionsService, event.latLng, function(closest_barrack){
+            console.log(closest_barrack);
         });
         marker.addListener('click', function(){
             marker.setMap(null);
