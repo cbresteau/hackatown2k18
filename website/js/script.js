@@ -1,5 +1,64 @@
+function getDuration(directionsService, origin, destination, callback){
+    directionsService.route({
+        origin: origin,
+        destination: destination,
+        travelMode: 'DRIVING'
+    }, function(response, status){
+        if(status === 'OK'){
+            var totalDuration = 0;
+            var legs = response.routes[0].legs;
+            for(var i=0; i<legs.length; ++i) {
+                totalDuration += legs[i].duration.value;
+            }
+            var result = {origin: origin, duration: totalDuration};
+            callback(result);
+        }
+        else{
+            throw status;
+        }
+    });
+}
+
+async function getDurations(barracks, latLng, directionsService, callback){
+    var durations = [];
+    barracks.forEach(function(barrack, b, array){
+        var barrack_position = barrack["geometry"]["coordinates"];
+        var barrack_latlng = new google.maps.LatLng({lat: barrack_position[1], lng: barrack_position[0]});
+        getDuration(directionsService, barrack_latlng, latLng, function(result){
+            durations.push(result);
+            // Ugly way to do the proper callback to populate correctly durations array and callback on it
+            if (durations.length === array.length){
+                callback(durations);
+            }
+        });
+    });
+}
+
+function getMinDurationObject(durations){
+    var min_result = {duration: Infinity};
+    durations.forEach(function(item, i){
+        if (item["duration"] < min_result["duration"]){
+            min_result = item;
+        }
+    });
+    return min_result;
+}
+
+function getClosestBarrack(directionsService, latLng, callback) {
+    $.getJSON("casernes.geojson", function(data){
+        var barracks = data["features"];
+        getDurations(barracks, latLng, directionsService, function(durations){
+            closest_barrack = getMinDurationObject(durations);
+            callback(closest_barrack["origin"]);
+        });
+    });
+}
+
 function initMap() {
     var montreal = {lat: 45.5052846, lng: -73.6116984};
+    var directionsService = new google.maps.DirectionsService;
+    var directionsDisplay = new google.maps.DirectionsRenderer;
+
     var map = new google.maps.Map(document.getElementById('map'), {
         zoom: 15,
         center: montreal,
@@ -33,6 +92,7 @@ function initMap() {
     });
 
 
+    directionsDisplay.setMap(map);
 
     // images
     var fire_image = 'images/fire.png';
@@ -67,7 +127,7 @@ var light_marker;
             var light_marker = new google.maps.Marker({
                 position: traffic_lights_latlng,
                 icon: green_light_image,
-                map: map,
+                map: map
             });
         }
     });
@@ -94,6 +154,20 @@ var light_marker;
             position: fire_position,
             icon: fire_image,
             map: map
+        });
+        getClosestBarrack(directionsService, fire_position, function(closest_barrack){
+            directionsService.route({
+                origin: closest_barrack,
+                destination: fire_position,
+                travelMode: 'DRIVING'
+            }, function(response, status) {
+                if (status === 'OK') {
+                    console.log(response);
+                    directionsDisplay.setDirections(response);
+                } else {
+                    window.alert('Directions request failed due to ' + status);
+                }
+            });
         });
         marker.addListener('click', function(){
             marker.setMap(null);
