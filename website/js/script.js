@@ -19,7 +19,7 @@ function getDuration(directionsService, origin, destination, callback){
     });
 }
 
-async function getDurations(barracks, latLng, directionsService, callback){
+function getDurations(barracks, latLng, directionsService, callback){
     var durations = [];
     barracks.forEach(function(barrack, b, array){
         var barrack_position = barrack["geometry"]["coordinates"];
@@ -113,35 +113,21 @@ function initMap() {
         }
     });
 
-    var light_marker;
-
-    $.getJSON("geo_redlights.json", function(data){
-        var traffic_lights = data["features"];
-        for (b in traffic_lights){
-            var traffic_lights_position = traffic_lights[b]["geometry"]["coordinates"];
-            var traffic_lights_latlng = new google.maps.LatLng({lat: traffic_lights_position[0], lng: traffic_lights_position[1]});
+    function displayLights(light, path_checkpoints){
+        var path = new google.maps.Polyline({
+            path: path_checkpoints
+        });
+        if (google.maps.geometry.poly.isLocationOnEdge(light, path, 10e-5)){
             var light_marker = new google.maps.Marker({
-                position: traffic_lights_latlng,
+                position: light,
                 icon: green_light_image,
                 map: map
             });
+            map.addListener('click', function(event) {
+                light_marker.setMap(null);
+            });
         }
-    });
-
-//minFTZoomLevel = 17 ;
-
-//      google.maps.event.addListener(map, 'zoom_changed', function() {
-//          var zoom = map.getZoom();
-
-          // Update May 2017
-          //   You can now use setVisible() on a marker instead of
-          //   setting the map to a null value.
-//          if (zoom >= 17) {
-//              light_marker.setVisible(false);
-//          } else {
-//              light_marker.setVisible(true);
-//          }
-//      });
+    }
 
     // Fire icons on click
     map.addListener('click', function(event) {
@@ -158,8 +144,19 @@ function initMap() {
                 travelMode: 'DRIVING'
             }, function(response, status) {
                 if (status === 'OK') {
+                    // Display the route from the barrack to the fire
                     directionsDisplay.setDirections(response);
-                } else {
+                    // Display the lights on the way
+                    $.getJSON("geo_redlights.json", function(data){
+                        var traffic_lights = data["features"];
+                        for (b in traffic_lights){
+                            var traffic_lights_position = traffic_lights[b]["geometry"]["coordinates"];
+                            var traffic_lights_latlng = new google.maps.LatLng({lat: traffic_lights_position[0], lng: traffic_lights_position[1]});
+                            displayLights(traffic_lights_latlng, response.routes[0].overview_path);
+                        }
+                    });
+                }
+                else {
                     window.alert('Directions request failed due to ' + status);
                 }
             });
