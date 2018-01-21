@@ -1,11 +1,11 @@
-def test_droite(coord1, coord2, coord3):
-    inc = 0.0001
+def test_segment(coord1, coord2, coord3):
+    inc = 0.1
     droite = 0
-    m1 = (coord2.y - coord1.y) / (coord2.x - coord1.x)
-    m2 = (coord3.y - coord1.y) / (coord3.x - coord1.x)
-    if (m1 - m2) <= inc:
-        if (coord3.x >= coord1.x and coord3.x <= coord2.x) or (coord3.x >= coord2.x and coord3.x <= coord1.x):
-            if (coord3.y >= coord1.y and coord3.y <= coord2.y) or (coord3.y >= coord2.y and coord3.y <= coord1.y):
+    m1 = abs((coord2[1] - coord1[1]) / (coord2[0] - coord1[0]))
+    m2 = abs((coord3[1] - coord1[1]) / (coord3[0] - coord1[0]))
+    if abs(m1 - m2) <= inc:
+        if (coord3[0] >= coord1[0] and coord3[0] <= coord2[0]) or (coord3[0] >= coord2[0] and coord3[0] <= coord1[0]):
+            if (coord3[1] >= coord1[1] and coord3[1] <= coord2[1]) or (coord3[1] >= coord2[1] and coord3[1] <= coord1[1]):
                 droite += 1
             else:
                 droite = droite
@@ -13,17 +13,11 @@ def test_droite(coord1, coord2, coord3):
             droite = droite
     else:
         droite = droite
-
     return droite
 
-class point:
-    def __init__(self, x, y):
-        self.x = x
-        self.y = y
+coord1 = 45.5082173272, -73.5747242614
+coord2 = 45.509215371, -73.57685081
+coord3 = 45.506977227, -73.5721068227
 
-coord1 = point(45.5082173272, -73.5747242614)
-coord2 = point(45.509215371, -73.57685081)
-coord3 = point(45.506977227, -73.5721068227)
-
-a = test_droite(coord1, coord2, coord3)
+a = test_segment(coord1, coord2, coord3)
 print(a)
