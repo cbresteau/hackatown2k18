@@ -32,9 +32,12 @@ function initMap() {
         ]
     });
 
+
+
     // images
     var fire_image = 'images/fire.png';
     var firemen_image = 'images/firemen.png';
+    var green_light_image = 'images/green_light.png'
 
     // Barracks icons
     $.getJSON("casernes.geojson", function(data){
@@ -49,7 +52,41 @@ function initMap() {
             });
         }
     });
-    
+
+
+
+var light_marker;
+
+
+
+    $.getJSON("geo_redlights.json", function(data){
+        var traffic_lights = data["features"];
+        for (b in traffic_lights){
+            var traffic_lights_position = traffic_lights[b]["geometry"]["coordinates"];
+            var traffic_lights_latlng = new google.maps.LatLng({lat: traffic_lights_position[0], lng: traffic_lights_position[1]});
+            var light_marker = new google.maps.Marker({
+                position: traffic_lights_latlng,
+                icon: green_light_image,
+                map: map,
+            });
+        }
+    });
+
+//minFTZoomLevel = 17 ;
+
+//      google.maps.event.addListener(map, 'zoom_changed', function() {
+//          var zoom = map.getZoom();
+
+          // Update May 2017
+          //   You can now use setVisible() on a marker instead of
+          //   setting the map to a null value.
+//          if (zoom >= 17) {
+//              light_marker.setVisible(false);
+//          } else {
+//              light_marker.setVisible(true);
+//          }
+//      });
+
     // Fire icons on click
     map.addListener('click', function(event) {
         var fire_position = event.latLng;
@@ -64,4 +101,3 @@ function initMap() {
     });
 
 }
-

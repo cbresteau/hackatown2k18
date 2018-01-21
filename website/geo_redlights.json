@@ -1,0 +1,1168 @@
+ { "type" : "FeatureCollection",
+    "features" : [
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5082062031, -73.5801177195]},
+        "properties" : { "id" : 281, "unixTime" : "1516475517", "msgtext" : "Pins", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5061760643, -73.5725850574]},
+        "properties" : { "id" : 291, "unixTime" : "1516475517", "msgtext" : "Aylmer", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5082173272, -73.5747242614]},
+        "properties" : { "id" : 309, "unixTime" : "1516475517", "msgtext" : "Durocher", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.509215371, -73.57685081]},
+        "properties" : { "id" : 310, "unixTime" : "1516475517", "msgtext" : "Durocher", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.506977227, -73.5721068227]},
+        "properties" : { "id" : 311, "unixTime" : "1516475517", "msgtext" : "Durocher", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5088475606, -73.5741966713]},
+        "properties" : { "id" : 318, "unixTime" : "1516475517", "msgtext" : "Hutchison", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5076658709, -73.5716866609]},
+        "properties" : { "id" : 320, "unixTime" : "1516475517", "msgtext" : "Hutchison", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5102115846, -73.5730120723]},
+        "properties" : { "id" : 322, "unixTime" : "1516475517", "msgtext" : "Jeanne-Mance", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5111326197, -73.5750226099]},
+        "properties" : { "id" : 324, "unixTime" : "1516475517", "msgtext" : "Jeanne-Mance", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5093335669, -73.5707912555]},
+        "properties" : { "id" : 326, "unixTime" : "1516475517", "msgtext" : "Jeanne-Mance", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5111246381, -73.5771436758]},
+        "properties" : { "id" : 327, "unixTime" : "1516475517", "msgtext" : "Lיo-Pariseau", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5094912843, -73.5736766378]},
+        "properties" : { "id" : 348, "unixTime" : "1516475517", "msgtext" : "Milton", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5116838352, -73.5714154417]},
+        "properties" : { "id" : 349, "unixTime" : "1516475517", "msgtext" : "Milton", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5063997683, -73.5764428395]},
+        "properties" : { "id" : 350, "unixTime" : "1516475517", "msgtext" : "Milton", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5104274199, -73.5756951158]},
+        "properties" : { "id" : 355, "unixTime" : "1516475517", "msgtext" : "Parc", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5124994127, -73.5694352349]},
+        "properties" : { "id" : 368, "unixTime" : "1516475517", "msgtext" : "Saint-Laurent", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5111119357, -73.5700431157]},
+        "properties" : { "id" : 371, "unixTime" : "1516475517", "msgtext" : "Saint-Urbain", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5049731196, -73.5734844196]},
+        "properties" : { "id" : 374, "unixTime" : "1516475517", "msgtext" : "Sherbrooke", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5118404211, -73.5765359547]},
+        "properties" : { "id" : 375, "unixTime" : "1516475517", "msgtext" : "Jeanne-Mance", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5190793444, -73.5692471006]},
+        "properties" : { "id" : 477, "unixTime" : "1516475517", "msgtext" : "Berri", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5202278554, -73.5716549939]},
+        "properties" : { "id" : 480, "unixTime" : "1516475517", "msgtext" : "Berri", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5180005315, -73.5669732752]},
+        "properties" : { "id" : 482, "unixTime" : "1516475517", "msgtext" : "Berri", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5225658516, -73.5657682312]},
+        "properties" : { "id" : 483, "unixTime" : "1516475517", "msgtext" : "Cherrier / Montcalm", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5219173914, -73.5666060581]},
+        "properties" : { "id" : 484, "unixTime" : "1516475517", "msgtext" : "Cherrier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5181829588, -73.57022072]},
+        "properties" : { "id" : 485, "unixTime" : "1516475517", "msgtext" : "Cherrier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.519851765, -73.5685048589]},
+        "properties" : { "id" : 486, "unixTime" : "1516475517", "msgtext" : "Cherrier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5168791561, -73.5735468897]},
+        "properties" : { "id" : 490, "unixTime" : "1516475517", "msgtext" : "Hפtel-de-Ville", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5188903471, -73.5717752816]},
+        "properties" : { "id" : 500, "unixTime" : "1516475517", "msgtext" : "Pins", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5174708532, -73.5686940952]},
+        "properties" : { "id" : 501, "unixTime" : "1516475517", "msgtext" : "Rigaud", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5192463458, -73.5725950767]},
+        "properties" : { "id" : 502, "unixTime" : "1516475517", "msgtext" : "Roy", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5209840547, -73.5709767528]},
+        "properties" : { "id" : 503, "unixTime" : "1516475517", "msgtext" : "Roy", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5199184068, -73.5661234293]},
+        "properties" : { "id" : 505, "unixTime" : "1516475517", "msgtext" : "Saint-Andrי", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5189553243, -73.5665594267]},
+        "properties" : { "id" : 511, "unixTime" : "1516475517", "msgtext" : "Saint-Hubert", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5249520002, -73.6043750211]},
+        "properties" : { "id" : 516, "unixTime" : "1516475517", "msgtext" : "Bernard", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5236609439, -73.6055137351]},
+        "properties" : { "id" : 517, "unixTime" : "1516475517", "msgtext" : "Bernard", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5273559517, -73.6022518916]},
+        "properties" : { "id" : 518, "unixTime" : "1516475517", "msgtext" : "Bernard", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5261561827, -73.6032669484]},
+        "properties" : { "id" : 519, "unixTime" : "1516475517", "msgtext" : "Bernard", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5239135092, -73.589972423]},
+        "properties" : { "id" : 520, "unixTime" : "1516475517", "msgtext" : "Bullion", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5159608246, -73.5743098225]},
+        "properties" : { "id" : 522, "unixTime" : "1516475517", "msgtext" : "Coloniale", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5169652304, -73.5793875092]},
+        "properties" : { "id" : 525, "unixTime" : "1516475517", "msgtext" : "Duluth", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5157631755, -73.5804840107]},
+        "properties" : { "id" : 526, "unixTime" : "1516475517", "msgtext" : "Duluth", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5204184853, -73.5975904417]},
+        "properties" : { "id" : 527, "unixTime" : "1516475517", "msgtext" : "Fairmount", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5238779249, -73.5945897869]},
+        "properties" : { "id" : 528, "unixTime" : "1516475517", "msgtext" : "Fairmount", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5226782285, -73.5955985438]},
+        "properties" : { "id" : 529, "unixTime" : "1516475517", "msgtext" : "Fairmount", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5248299927, -73.5912245898]},
+        "properties" : { "id" : 530, "unixTime" : "1516475517", "msgtext" : "Gaspי", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.519824682, -73.5799922512]},
+        "properties" : { "id" : 531, "unixTime" : "1516475517", "msgtext" : "Hפtel-de-Ville", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.519727481, -73.5937426182]},
+        "properties" : { "id" : 532, "unixTime" : "1516475517", "msgtext" : "Jeanne-Mance", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5196205763, -73.5958076429]},
+        "properties" : { "id" : 533, "unixTime" : "1516475517", "msgtext" : "Laurier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5230470638, -73.5927719201]},
+        "properties" : { "id" : 534, "unixTime" : "1516475517", "msgtext" : "Laurier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.521867557, -73.593869188]},
+        "properties" : { "id" : 535, "unixTime" : "1516475517", "msgtext" : "Laurier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5190540267, -73.5840471532]},
+        "properties" : { "id" : 536, "unixTime" : "1516475517", "msgtext" : "Marie-Anne", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5178765732, -73.585156945]},
+        "properties" : { "id" : 537, "unixTime" : "1516475517", "msgtext" : "Marie-Anne", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5167643403, -73.589319766]},
+        "properties" : { "id" : 538, "unixTime" : "1516475517", "msgtext" : "Mont-Royal", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.52010222, -73.5863803104]},
+        "properties" : { "id" : 539, "unixTime" : "1516475517", "msgtext" : "Mont-Royal", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5189029924, -73.587458168]},
+        "properties" : { "id" : 540, "unixTime" : "1516475517", "msgtext" : "Mont-Royal", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5189933097, -73.5943878076]},
+        "properties" : { "id" : 542, "unixTime" : "1516475517", "msgtext" : "Parc", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5222065637, -73.6022137611]},
+        "properties" : { "id" : 543, "unixTime" : "1516475517", "msgtext" : "Parc", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5257528657, -73.6102102379]},
+        "properties" : { "id" : 544, "unixTime" : "1516475517", "msgtext" : "Parc", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5181296345, -73.5924169597]},
+        "properties" : { "id" : 545, "unixTime" : "1516475517", "msgtext" : "Parc", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5150424626, -73.5751111282]},
+        "properties" : { "id" : 546, "unixTime" : "1516475517", "msgtext" : "Pins", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5138089058, -73.5761447979]},
+        "properties" : { "id" : 547, "unixTime" : "1516475517", "msgtext" : "Pins", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5138899699, -73.5725683512]},
+        "properties" : { "id" : 548, "unixTime" : "1516475517", "msgtext" : "Prince-Arthur", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5126677594, -73.5736244679]},
+        "properties" : { "id" : 549, "unixTime" : "1516475517", "msgtext" : "Prince-Arthur", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5180164113, -73.581703218]},
+        "properties" : { "id" : 550, "unixTime" : "1516475517", "msgtext" : "Rachel", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5168294483, -73.5828043205]},
+        "properties" : { "id" : 551, "unixTime" : "1516475517", "msgtext" : "Rachel", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5147602076, -73.5782899484]},
+        "properties" : { "id" : 552, "unixTime" : "1516475517", "msgtext" : "Saint-Cuthbert", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5223752138, -73.5913570804]},
+        "properties" : { "id" : 553, "unixTime" : "1516475517", "msgtext" : "Saint-Joseph", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5211784735, -73.5924173428]},
+        "properties" : { "id" : 554, "unixTime" : "1516475517", "msgtext" : "Saint-Joseph", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5258130679, -73.5989011915]},
+        "properties" : { "id" : 555, "unixTime" : "1516475517", "msgtext" : "Saint-Laurent", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5214570837, -73.5893387118]},
+        "properties" : { "id" : 556, "unixTime" : "1516475517", "msgtext" : "Saint-Laurent", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.513242199, -73.5748997279]},
+        "properties" : { "id" : 557, "unixTime" : "1516475517", "msgtext" : "Saint-Urbain", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5246292004, -73.5999791752]},
+        "properties" : { "id" : 558, "unixTime" : "1516475517", "msgtext" : "Saint-Urbain", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5202639195, -73.5904517433]},
+        "properties" : { "id" : 559, "unixTime" : "1516475517", "msgtext" : "Saint-Urbain", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5274508351, -73.6079776691]},
+        "properties" : { "id" : 560, "unixTime" : "1516475517", "msgtext" : "Van Horne", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.527396592, -73.5868537572]},
+        "properties" : { "id" : 561, "unixTime" : "1516475517", "msgtext" : "Berri", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5247765065, -73.5847278798]},
+        "properties" : { "id" : 562, "unixTime" : "1516475517", "msgtext" : "Bienville", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5279857678, -73.5917383225]},
+        "properties" : { "id" : 563, "unixTime" : "1516475517", "msgtext" : "Boucher", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5299555675, -73.5900897261]},
+        "properties" : { "id" : 564, "unixTime" : "1516475517", "msgtext" : "Boucher", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5324079276, -73.5847595672]},
+        "properties" : { "id" : 565, "unixTime" : "1516475517", "msgtext" : "Brיbeuf", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5315590939, -73.582942696]},
+        "properties" : { "id" : 566, "unixTime" : "1516475517", "msgtext" : "Brיbeuf", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5289362331, -73.5938852979]},
+        "properties" : { "id" : 567, "unixTime" : "1516475517", "msgtext" : "Carmel", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5295832467, -73.5826687614]},
+        "properties" : { "id" : 568, "unixTime" : "1516475517", "msgtext" : "Christophe-Colomb", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5269542837, -73.576859983]},
+        "properties" : { "id" : 569, "unixTime" : "1516475517", "msgtext" : "Christophe-Colomb", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5280064836, -73.5792047332]},
+        "properties" : { "id" : 570, "unixTime" : "1516475517", "msgtext" : "Christophe-Colomb", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5256617098, -73.5743441006]},
+        "properties" : { "id" : 571, "unixTime" : "1516475517", "msgtext" : "Christophe-Colomb", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5302523531, -73.5841662519]},
+        "properties" : { "id" : 572, "unixTime" : "1516475517", "msgtext" : "Christophe-Colomb", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5245691334, -73.5723686804]},
+        "properties" : { "id" : 573, "unixTime" : "1516475517", "msgtext" : "Duluth", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5207409208, -73.5758720234]},
+        "properties" : { "id" : 574, "unixTime" : "1516475517", "msgtext" : "Duluth", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5224846757, -73.5742980569]},
+        "properties" : { "id" : 575, "unixTime" : "1516475517", "msgtext" : "Duluth", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5338052513, -73.5808353359]},
+        "properties" : { "id" : 576, "unixTime" : "1516475517", "msgtext" : "Fabre", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5331467625, -73.5814507473]},
+        "properties" : { "id" : 577, "unixTime" : "1516475517", "msgtext" : "Garnier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5303126218, -73.5819669597]},
+        "properties" : { "id" : 579, "unixTime" : "1516475517", "msgtext" : "Gilford", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5253417723, -73.5859503859]},
+        "properties" : { "id" : 580, "unixTime" : "1516475517", "msgtext" : "Gilford", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5291972697, -73.5747549809]},
+        "properties" : { "id" : 582, "unixTime" : "1516475517", "msgtext" : "Lanaudiטre", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5302670729, -73.5770795808]},
+        "properties" : { "id" : 583, "unixTime" : "1516475517", "msgtext" : "Lanaudiטre", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5279170403, -73.571997485]},
+        "properties" : { "id" : 584, "unixTime" : "1516475517", "msgtext" : "Calixa-Lavallיe", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5325607574, -73.581996344]},
+        "properties" : { "id" : 585, "unixTime" : "1516475517", "msgtext" : "Lanaudiטre", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5318534359, -73.5852583107]},
+        "properties" : { "id" : 586, "unixTime" : "1516475517", "msgtext" : "La Roche", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5276639789, -73.5762002313]},
+        "properties" : { "id" : 587, "unixTime" : "1516475517", "msgtext" : "La Roche", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5287223243, -73.5785259317]},
+        "properties" : { "id" : 588, "unixTime" : "1516475517", "msgtext" : "La Roche", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.526401136, -73.5734659716]},
+        "properties" : { "id" : 589, "unixTime" : "1516475517", "msgtext" : "La Roche", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.531003876, -73.5834609092]},
+        "properties" : { "id" : 590, "unixTime" : "1516475517", "msgtext" : "La Roche", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5300615759, -73.5868264922]},
+        "properties" : { "id" : 591, "unixTime" : "1516475517", "msgtext" : "Laurier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5269504927, -73.5894822121]},
+        "properties" : { "id" : 593, "unixTime" : "1516475517", "msgtext" : "Laurier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.528963038, -73.5877875448]},
+        "properties" : { "id" : 594, "unixTime" : "1516475517", "msgtext" : "Laurier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5228949781, -73.5805732896]},
+        "properties" : { "id" : 595, "unixTime" : "1516475517", "msgtext" : "Marie-Anne", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5246096797, -73.5789452176]},
+        "properties" : { "id" : 596, "unixTime" : "1516475517", "msgtext" : "Marie-Anne", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5270250153, -73.5801276595]},
+        "properties" : { "id" : 597, "unixTime" : "1516475517", "msgtext" : "Mentana", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5235224739, -73.5765946775]},
+        "properties" : { "id" : 598, "unixTime" : "1516475517", "msgtext" : "Rachel", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5258531838, -73.581232833]},
+        "properties" : { "id" : 599, "unixTime" : "1516475517", "msgtext" : "Mont-Royal", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5245217458, -73.5824130001]},
+        "properties" : { "id" : 600, "unixTime" : "1516475517", "msgtext" : "Mont-Royal", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5239634789, -73.5829191163]},
+        "properties" : { "id" : 601, "unixTime" : "1516475517", "msgtext" : "Mont-Royal", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5218117035, -73.5781808084]},
+        "properties" : { "id" : 602, "unixTime" : "1516475517", "msgtext" : "Rachel", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5277900124, -73.586483868]},
+        "properties" : { "id" : 604, "unixTime" : "1516475517", "msgtext" : "Resther", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5286437054, -73.5932138396]},
+        "properties" : { "id" : 605, "unixTime" : "1516475517", "msgtext" : "Saint-Denis", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5262332013, -73.5878976188]},
+        "properties" : { "id" : 606, "unixTime" : "1516475517", "msgtext" : "Saint-Denis", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5307645964, -73.5919172146]},
+        "properties" : { "id" : 607, "unixTime" : "1516475517", "msgtext" : "Saint-Grיgoire", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5282117047, -73.5860898206]},
+        "properties" : { "id" : 608, "unixTime" : "1516475517", "msgtext" : "Saint-Hubert", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5386060552, -73.5658562013]},
+        "properties" : { "id" : 646, "unixTime" : "1516475517", "msgtext" : "Frontenac", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5393671332, -73.5684656818]},
+        "properties" : { "id" : 647, "unixTime" : "1516475517", "msgtext" : "Frontenac", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5373929684, -73.5630128612]},
+        "properties" : { "id" : 649, "unixTime" : "1516475517", "msgtext" : "Frontenac", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5375110594, -73.5702103295]},
+        "properties" : { "id" : 654, "unixTime" : "1516475517", "msgtext" : "Fullum", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5351196865, -73.565137038]},
+        "properties" : { "id" : 656, "unixTime" : "1516475517", "msgtext" : "Fullum", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.539031444, -73.5615984899]},
+        "properties" : { "id" : 663, "unixTime" : "1516475517", "msgtext" : "Hogan", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5380479414, -73.5663824546]},
+        "properties" : { "id" : 666, "unixTime" : "1516475517", "msgtext" : "Iberville", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5390409508, -73.5687509592]},
+        "properties" : { "id" : 667, "unixTime" : "1516475517", "msgtext" : "Iberville", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.536839302, -73.5634936814]},
+        "properties" : { "id" : 669, "unixTime" : "1516475517", "msgtext" : "Iberville", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5359226441, -73.5613402958]},
+        "properties" : { "id" : 671, "unixTime" : "1516475517", "msgtext" : "Iberville", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5341113222, -73.5660871813]},
+        "properties" : { "id" : 674, "unixTime" : "1516475517", "msgtext" : "Parthenais", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5324531485, -73.5624836928]},
+        "properties" : { "id" : 675, "unixTime" : "1516475517", "msgtext" : "Parthenais", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.537360436, -73.579013123]},
+        "properties" : { "id" : 677, "unixTime" : "1516475517", "msgtext" : "Bordeaux", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5334765743, -73.5707480476]},
+        "properties" : { "id" : 678, "unixTime" : "1516475517", "msgtext" : "Bordeaux", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5345637772, -73.5730069594]},
+        "properties" : { "id" : 680, "unixTime" : "1516475517", "msgtext" : "Bordeaux", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.532162077, -73.5679541591]},
+        "properties" : { "id" : 681, "unixTime" : "1516475517", "msgtext" : "Bordeaux", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5368699466, -73.5779476367]},
+        "properties" : { "id" : 682, "unixTime" : "1516475517", "msgtext" : "Bordeaux", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5325892749, -73.5902419365]},
+        "properties" : { "id" : 686, "unixTime" : "1516475517", "msgtext" : "Christophe-Colomb", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5390962907, -73.5736593357]},
+        "properties" : { "id" : 688, "unixTime" : "1516475517", "msgtext" : "Fullum", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5397819403, -73.5750820854]},
+        "properties" : { "id" : 689, "unixTime" : "1516475517", "msgtext" : "Fullum", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5317902098, -73.5652689071]},
+        "properties" : { "id" : 690, "unixTime" : "1516475517", "msgtext" : "Gauthier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5295715951, -73.5673911834]},
+        "properties" : { "id" : 691, "unixTime" : "1516475517", "msgtext" : "Gauthier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5367731688, -73.5758765513]},
+        "properties" : { "id" : 692, "unixTime" : "1516475517", "msgtext" : "Gilford", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5345231071, -73.5780390138]},
+        "properties" : { "id" : 693, "unixTime" : "1516475517", "msgtext" : "Gilford", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5411554471, -73.5737073549]},
+        "properties" : { "id" : 694, "unixTime" : "1516475517", "msgtext" : "Iberville", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5379772195, -73.5784403463]},
+        "properties" : { "id" : 695, "unixTime" : "1516475517", "msgtext" : "Laurier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5360397315, -73.5813389191]},
+        "properties" : { "id" : 696, "unixTime" : "1516475517", "msgtext" : "Laurier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5340948534, -73.5701640827]},
+        "properties" : { "id" : 697, "unixTime" : "1516475517", "msgtext" : "Lorimier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5395124518, -73.5817489427]},
+        "properties" : { "id" : 698, "unixTime" : "1516475517", "msgtext" : "Lorimier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5351678337, -73.5724489815]},
+        "properties" : { "id" : 699, "unixTime" : "1516475517", "msgtext" : "Lorimier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5327743132, -73.5673697859]},
+        "properties" : { "id" : 700, "unixTime" : "1516475517", "msgtext" : "Lorimier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5374696206, -73.5773855856]},
+        "properties" : { "id" : 702, "unixTime" : "1516475517", "msgtext" : "Lorimier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5318398883, -73.5722812132]},
+        "properties" : { "id" : 704, "unixTime" : "1516475517", "msgtext" : "Marie-Anne", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5298022596, -73.5701711638]},
+        "properties" : { "id" : 705, "unixTime" : "1516475517", "msgtext" : "ֹmile-Duployי", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5372309606, -73.5839182715]},
+        "properties" : { "id" : 706, "unixTime" : "1516475517", "msgtext" : "Masson", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5329175923, -73.5745715726]},
+        "properties" : { "id" : 708, "unixTime" : "1516475517", "msgtext" : "Mont-Royal", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5305503474, -73.569497515]},
+        "properties" : { "id" : 709, "unixTime" : "1516475517", "msgtext" : "Papineau", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5378871803, -73.5852976472]},
+        "properties" : { "id" : 710, "unixTime" : "1516475517", "msgtext" : "Papineau", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5352064092, -73.579524693]},
+        "properties" : { "id" : 711, "unixTime" : "1516475517", "msgtext" : "Papineau", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5249764554, -73.5820091358]},
+        "properties" : { "id" : 1370, "unixTime" : "1516475517", "msgtext" : "Berri", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5135390917, -73.5689859909]},
+        "properties" : { "id" : 1382, "unixTime" : "1516475517", "msgtext" : "Coloniale", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5211956238, -73.599941988]},
+        "properties" : { "id" : 1403, "unixTime" : "1516475517", "msgtext" : "Parc", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5364105373, -73.5712608184]},
+        "properties" : { "id" : 1412, "unixTime" : "1516475517", "msgtext" : "Mont-Royal", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5269380436, -73.5729457583]},
+        "properties" : { "id" : 1420, "unixTime" : "1516475517", "msgtext" : "Brיbeuf", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5292670763, -73.57801587]},
+        "properties" : { "id" : 1425, "unixTime" : "1516475517", "msgtext" : "Brיbeuf", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.515972415, -73.5771858819]},
+        "properties" : { "id" : 1433, "unixTime" : "1516475517", "msgtext" : "Saint-Cuthbert", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5220671039, -73.5845860756]},
+        "properties" : { "id" : 1440, "unixTime" : "1516475517", "msgtext" : "Hפtel-de-Ville", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5175252342, -73.5886412985]},
+        "properties" : { "id" : 1448, "unixTime" : "1516475517", "msgtext" : "Jeanne-Mance", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5333865494, -73.5667802785]},
+        "properties" : { "id" : 1494, "unixTime" : "1516475517", "msgtext" : "ֹrables", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5093323328, -73.5795062939]},
+        "properties" : { "id" : 1495, "unixTime" : "1516475517", "msgtext" : "Aylmer", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5098090279, -73.5762673852]},
+        "properties" : { "id" : 1498, "unixTime" : "1516475517", "msgtext" : "Hutchison", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5196205763, -73.5958076429]},
+        "properties" : { "id" : 1516, "unixTime" : "1516475517", "msgtext" : "Laurier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5390729542, -73.559681668]},
+        "properties" : { "id" : 1525, "unixTime" : "1516475517", "msgtext" : "Montgomery", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5315180968, -73.5759026445]},
+        "properties" : { "id" : 1541, "unixTime" : "1516475517", "msgtext" : "Fabre", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5212631803, -73.5998637674]},
+        "properties" : { "id" : 1554, "unixTime" : "1516475517", "msgtext" : "Parc", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5146975009, -73.5848266665]},
+        "properties" : { "id" : 1557, "unixTime" : "1516475517", "msgtext" : "Parc", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5236609439, -73.6055137351]},
+        "properties" : { "id" : 1565, "unixTime" : "1516475517", "msgtext" : "Bernard", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5181296345, -73.5924169597]},
+        "properties" : { "id" : 1567, "unixTime" : "1516475517", "msgtext" : "Parc", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5228659569, -73.6037217665]},
+        "properties" : { "id" : 1568, "unixTime" : "1516475517", "msgtext" : "Parc", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5342369159, -73.5887008384]},
+        "properties" : { "id" : 1581, "unixTime" : "1516475517", "msgtext" : "Brיbeuf", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5120784176, -73.5793229168]},
+        "properties" : { "id" : 1602, "unixTime" : "1516475517", "msgtext" : "Parc", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5110349836, -73.5787703535]},
+        "properties" : { "id" : 1611, "unixTime" : "1516475517", "msgtext" : "Pins", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5134531871, -73.5821358735]},
+        "properties" : { "id" : 1615, "unixTime" : "1516475517", "msgtext" : "Parc", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5318896808, -73.5908846853]},
+        "properties" : { "id" : 1669, "unixTime" : "1516475517", "msgtext" : "Mentana", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5228021501, -73.5772657542]},
+        "properties" : { "id" : 1690, "unixTime" : "1516475517", "msgtext" : "Berri", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5207762326, -73.5791317369]},
+        "properties" : { "id" : 1698, "unixTime" : "1516475517", "msgtext" : "Henri-Julien", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5189303669, -73.5808354102]},
+        "properties" : { "id" : 1869, "unixTime" : "1516475517", "msgtext" : "Coloniale", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5358112305, -73.5872362329]},
+        "properties" : { "id" : 2167, "unixTime" : "1516475517", "msgtext" : "Garnier", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5116320174, -73.5781315173]},
+        "properties" : { "id" : 2232, "unixTime" : "1516475517", "msgtext" : "Parc", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.529270218, -73.5850854149]},
+        "properties" : { "id" : 2973, "unixTime" : "1516475517", "msgtext" : "Mentana", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5248678424, -73.5753496369]},
+        "properties" : { "id" : 3052, "unixTime" : "1516475517", "msgtext" : "Mentana", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5321138579, -73.5824266484]},
+        "properties" : { "id" : 3636, "unixTime" : "1516475517", "msgtext" : "Chambord", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5255528042, -73.5815040518]},
+        "properties" : { "id" : 3803, "unixTime" : "1516475517", "msgtext" : "Mont-Royal", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5178437832, -73.5727069363]},
+        "properties" : { "id" : 4123, "unixTime" : "1516475517", "msgtext" : "Henri-Julien", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5380684118, -73.5767940709]},
+        "properties" : { "id" : 7078, "unixTime" : "1516475517", "msgtext" : "ֹrables", "userID": "Plateau Mont-Royal"}
+        },
+         { "type" : "Feature",
+        "geometry" : {
+            "type" : "Point",
+            "coordinates" : [45.5279189144, -73.6035248095]},
+        "properties" : { "id" : 7712, "unixTime" : "1516475517", "msgtext" : "Arcade", "userID": "Plateau Mont-Royal"}
+        }
+         ]
+}
