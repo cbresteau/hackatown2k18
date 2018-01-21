@@ -97,7 +97,7 @@ function initMap() {
     // images
     var fire_image = 'images/fire.png';
     var firemen_image = 'images/firemen.png';
-    var green_light_image = 'images/green_light.png'
+    var green_light_image = 'images/green_light.png';
 
     // Barracks icons
     $.getJSON("casernes.geojson", function(data){
@@ -113,11 +113,7 @@ function initMap() {
         }
     });
 
-
-
-var light_marker;
-
-
+    var light_marker;
 
     $.getJSON("geo_redlights.json", function(data){
         var traffic_lights = data["features"];
